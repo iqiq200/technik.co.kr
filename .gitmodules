@@ -1,0 +1,3 @@
+[submodule "technik.co.kr/themes/ananke"]
+	path = technik.co.kr/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke

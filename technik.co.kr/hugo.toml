@@ -1,0 +1,4 @@
+baseURL = 'https://iqiq200.github.io/technik.co.kr/'
+languageCode = 'en-us'
+title = 'Technik'
+theme = 'ananke'
